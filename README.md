@@ -1,6 +1,6 @@
 # 🎓 Educare – LMS Landing Page
 
-![React](https://img.shields.io/badge/React-blue?logo=react)
+![React](https://img.shields.io/badge/Built-with-React-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Speedy-purple?logo=vite)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Utility_First-0ea5e9?logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-EF4444?logo=framer)
