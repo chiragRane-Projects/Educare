@@ -37,10 +37,10 @@ Click here: https://educare-au.netlify.app/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/educare-landing-page.git
+git clone https://github.com/yourusername/Educare.git
 
 # Navigate to the folder
-cd educare-landing-page
+cd Educare
 
 # Install dependencies
 npm install
