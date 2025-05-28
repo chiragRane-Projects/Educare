@@ -29,7 +29,7 @@
 
 ## 📸 Preview
 
-Click on this link: 
+Click here: https://educare-au.netlify.app/
 
 ---
 
